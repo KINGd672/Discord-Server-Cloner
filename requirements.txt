@@ -1,8 +1,1 @@
-pypresence
-discord.py==1.7.3
-rich
-asyncio
-colorama
-inquirer
-psutil
-requests
+discord.py>=2.4.0,<3.0.0
